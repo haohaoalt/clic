@@ -1,4 +1,4 @@
-imu_topic: /livox/imu
+imu_topic: /d455b/imu
 
 ## ImuStateEstimator
 imu_excite_threshold: 1.0

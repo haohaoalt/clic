@@ -53,7 +53,7 @@ generate_messages(
   std_msgs 
   sensor_msgs
 )
-
+add_definitions(-w)
 
 ###################################
 ## catkin specific configuration ##
